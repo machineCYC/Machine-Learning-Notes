@@ -21,8 +21,8 @@
 * **Feature Engineering**
     * Single Feature
         * Feature Transform
-            1. Log transform:
-            2. [Box-cox transform]():
+            1. Log transform
+            2. [Box-cox transform](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Box-cox_transform)
         * Dummies
             1. Ordering
                 > Sklearn LabelEncoder
