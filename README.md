@@ -1,6 +1,45 @@
 # Machine Learning Note
 
 
+## Machine Learning
+
+* **Supervised Learning**
+    * Regression
+        * Loss regression
+        * Ridge regression
+        * ElasticNet regression
+    * Classification
+        * SVM
+        * KNN
+        * Logistic regression
+
+* **Unsupervised Learning**
+    * Clustering
+        * K-means
+        * Mixture Normal Model
+    * Dimension Reduction
+        * t-SNE
+        * PCA
+
+* **Deep Learning**
+    * Perceptions 
+    * CNN
+    * RNN
+    * GAN
+    * AutoEncoder
+
+* **Ensemble Learning**
+    * Stacking
+    * Bagging
+    * Boosting
+        * AdaBoost
+        * [Gradient Boosting (GBM)](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Gradient_Boosting)
+        * eXtreme Gradient Boosting (XGBoost)
+
+* **Reinforcement Learning**
+    * Q-Learning
+
+
 ## Data
 
 * **Data types**
