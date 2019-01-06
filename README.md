@@ -31,7 +31,7 @@
 * **Ensemble Learning**
     * Stacking
     * Bagging
-    * Boosting
+    * [Boosting](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Boosting)
         * [Adaptive Boosting (AdaBoost)](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Adaptive_Boosting)
         * [Gradient Boosting (GBM)](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Gradient_Boosting)
         * eXtreme Gradient Boosting (XGBoost)
