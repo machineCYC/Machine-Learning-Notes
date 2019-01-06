@@ -37,9 +37,9 @@ u_n_i 為第 i 個 training data 在第 n 個模型的權重。
 
 最後就可以得到
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=d^{n}=\sqrt{\frac{1-\varepsilon&space;_{n}}{\varepsilon&space;_{n}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?d^{n}=\sqrt{\frac{1-\varepsilon&space;_{t}}{\varepsilon&space;_{n}}}" title="d^{n}=\sqrt{\frac{1-\varepsilon _{n}}{\varepsilon _{n}}}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=d^{n}=\sqrt{\frac{1-\varepsilon&space;_{n}}{\varepsilon&space;_{n}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?d^{n}=\sqrt{\frac{1-\varepsilon&space;_{n}}{\varepsilon&space;_{n}}}" title="d^{n}=\sqrt{\frac{1-\varepsilon _{n}}{\varepsilon _{n}}}" /></a>
 
-至於模型的權證可以透過模型的預測錯誤率來計算
+至於模型的權重可以透過模型的預測錯誤率來計算，錯誤率越高權重就越低，反之亦然
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\alpha&space;_{n}=\ln&space;\sqrt{\frac{1-\varepsilon&space;_{n}}{\varepsilon&space;_{n}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\alpha&space;_{n}=\ln&space;\sqrt{\frac{1-\varepsilon&space;_{n}}{\varepsilon&space;_{n}}}" title="\alpha _{n}=\ln \sqrt{\frac{1-\varepsilon _{n}}{\varepsilon _{n}}}" /></a>
 
