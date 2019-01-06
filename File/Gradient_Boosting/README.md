@@ -49,7 +49,8 @@ step3. tune tree 相關的參數
 
 step4. 調降 learning rate 和增加 n_estimator，進而獲得相對 robust 模型
 
+## Relative Project
+
+[House Prices: Advanced Regression Techniques](https://github.com/machineCYC/SideProjects/tree/master/06-Kaggle-HousePricesAdvancedRegTech)
 
 ## Reference
-
-[]()
