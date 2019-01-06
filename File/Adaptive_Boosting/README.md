@@ -27,7 +27,7 @@ u_n_i 為第 i 個 training data 在第 n 個模型的權重。
 
 有了這個範例可以得知，
 
-當預測正確時，<a href="https://www.codecogs.com/eqnedit.php?latex=u_{i}^{n}\leftarrow&space;u_{i}^{n}/d" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u_{i}^{n}\leftarrow&space;u_{i}^{n}/d" title="u_{i}^{n}\leftarrow u_{i}^{n}/d" /></a>，預測錯誤時，<a href="https://www.codecogs.com/eqnedit.php?latex=u_{i}^{n}\leftarrow&space;u_{i}^{n}*d" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u_{i}^{n}\leftarrow&space;u_{i}^{n}*d" title="u_{i}^{n}\leftarrow u_{i}^{n}*d" /></a>，其中 d > 1
+當預測正確時，<a href="https://www.codecogs.com/eqnedit.php?latex=u_{i}^{n-1}\leftarrow&space;u_{i}^{n}/d" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u_{i}^{n+1}\leftarrow&space;u_{i}^{n}/d" title="u_{i}^{n+1}\leftarrow u_{i}^{n}/d" /></a>，預測錯誤時，<a href="https://www.codecogs.com/eqnedit.php?latex=u_{i}^{n+1}\leftarrow&space;u_{i}^{n}*d" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u_{i}^{n+1}\leftarrow&space;u_{i}^{n}*d" title="u_{i}^{n}\leftarrow u_{i}^{n}*d" /></a>，其中 d > 1
 
 至於這個 d 該如何計算，其實也只是解下列等式
 
