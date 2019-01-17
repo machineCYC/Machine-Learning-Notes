@@ -67,6 +67,7 @@
                 > Sklearn LabelEncoder
             2. Non-ordering
                 > [Dummy encoder、One-hot encoder](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/OneHotEncoding)
+                
                 > Mean encoding
         * Standerlize (規一化)
         * Creating features
