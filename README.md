@@ -40,6 +40,9 @@
     * Q-Learning
 
 
+* **Model selection**
+    * [ROC](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/ROC)
+
 ## Data
 
 * **Data types**
@@ -90,5 +93,4 @@
 
 ## Reference
 
-# feature eigenner
-https://blog.csdn.net/u013421629/article/details/75098156
+- [feature eigenner](https://blog.csdn.net/u013421629/article/details/75098156)
