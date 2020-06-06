@@ -22,7 +22,7 @@
         * PCA
 
 * **Deep Learning**
-    * Perceptions 
+    * Perceptions
     * CNN
     * RNN
     * GAN
@@ -34,7 +34,7 @@
     * [Boosting](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Boosting)
         * [Adaptive Boosting (AdaBoost)](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Adaptive_Boosting)
         * [Gradient Boosting (GBM)](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/Gradient_Boosting)
-        * eXtreme Gradient Boosting (XGBoost)
+        * [eXtreme Gradient Boosting (XGBoost)](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/eXtreme_Gradient_Boosting)
 
 * **Reinforcement Learning**
     * Q-Learning
@@ -58,7 +58,7 @@
     * Missing value
     * sampling
         * class imbalance
-        * sample weight 
+        * sample weight
 
 * **Feature Engineering**
     * Single Feature
@@ -70,7 +70,7 @@
                 > Sklearn LabelEncoder
             2. Non-ordering
                 > [Dummy encoder、One-hot encoder](https://github.com/machineCYC/Machine-Learning-Notes/tree/master/File/OneHotEncoding)
-                
+
                 > Mean encoding
         * Standerlize (規一化)
         * Creating features
